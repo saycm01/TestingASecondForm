@@ -1,0 +1,10 @@
+C:\Users\Callum\Documents\C#\TestingASecondForm\bin\Debug\TestingASecondForm.exe.config
+C:\Users\Callum\Documents\C#\TestingASecondForm\obj\Debug\TestingASecondForm.csprojResolveAssemblyReference.cache
+C:\Users\Callum\Documents\C#\TestingASecondForm\obj\Debug\TestingASecondForm.Form1.resources
+C:\Users\Callum\Documents\C#\TestingASecondForm\obj\Debug\TestingASecondForm.Properties.Resources.resources
+C:\Users\Callum\Documents\C#\TestingASecondForm\obj\Debug\TestingASecondForm.csproj.GenerateResource.Cache
+C:\Users\Callum\Documents\C#\TestingASecondForm\bin\Debug\TestingASecondForm.exe
+C:\Users\Callum\Documents\C#\TestingASecondForm\bin\Debug\TestingASecondForm.pdb
+C:\Users\Callum\Documents\C#\TestingASecondForm\obj\Debug\TestingASecondForm.exe
+C:\Users\Callum\Documents\C#\TestingASecondForm\obj\Debug\TestingASecondForm.pdb
+C:\Users\Callum\Documents\C#\TestingASecondForm\obj\Debug\TestingASecondForm.RegistrationForm.resources
